@@ -1,0 +1,22 @@
+﻿
+>>search products
+>>serach employee info
+
+>>show salary status: paid/due
+>>show inventory statistics
+
+>>common message box for admins
+>>send email attachment as dBase backup
+
+>>serial connector
+>>serial port emulator
+>>csv processor
+>>csv parser
+>>smart logger
+>>smart dBase connector
+
+>>finance
+ >>add bulk expense
+ >>add bulk revenue
+ >>show periodic expense
+

@@ -1,0 +1,74 @@
+c:\users\abdur raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\bin\Debug\WpfApplication13.exe.config
+c:\users\abdur raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\bin\Debug\WpfApplication13.exe
+c:\users\abdur raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\bin\Debug\WpfApplication13.pdb
+c:\users\abdur raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13_MarkupCompile.cache
+c:\users\abdur raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.g.resources
+c:\users\abdur raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.Properties.Resources.resources
+c:\users\abdur raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.csproj.GenerateResource.Cache
+c:\users\abdur raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.exe
+c:\users\abdur raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.pdb
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.csprojResolveAssemblyReference.cache
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.Inventory.resources
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.HR.resources
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.CRM.resources
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.Credentials.resources
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\About.baml
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\Done.baml
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\Error.baml
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\LoginWindows\ForgottenIDPASS.baml
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\HelpViewer.baml
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\LoginWindows\Login.baml
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\LoginWindows\SignUp.baml
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\About.g.cs
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\Done.g.cs
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\Error.g.cs
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\LoginWindows\ForgottenIDPASS.g.cs
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\HelpViewer.g.cs
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\LoginWindows\Login.g.cs
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\LoginWindows\SignUp.g.cs
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13_Content.g.cs
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\bin\Debug\LightERP_DBase.mdf
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\bin\Debug\LightERP_DBase_log.ldf
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\MainWindow.baml
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\MainWindow.g.cs
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\App.g.cs
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\dBaseConnection.baml
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\dBaseConnection.g.cs
+C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.Notification.resources
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\bin\Debug\WpfApplication13.exe.config
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.exe
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.pdb
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\bin\Debug\LightERP_DBase.mdf
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\bin\Debug\LightERP_DBase_log.ldf
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\bin\Debug\WpfApplication13.exe
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\bin\Debug\WpfApplication13.pdb
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.csprojResolveAssemblyReference.cache
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\dBaseConnection.baml
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\About.baml
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\Done.baml
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\Error.baml
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\LoginWindows\ForgottenIDPASS.baml
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\HelpViewer.baml
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\LoginWindows\Login.baml
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\LoginWindows\SignUp.baml
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\MainWindow.baml
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\dBaseConnection.g.cs
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\About.g.cs
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\Done.g.cs
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\Error.g.cs
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\LoginWindows\ForgottenIDPASS.g.cs
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\MessageWindows\HelpViewer.g.cs
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\LoginWindows\Login.g.cs
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\LoginWindows\SignUp.g.cs
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\MainWindow.g.cs
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\App.g.cs
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13_Content.g.cs
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13_MarkupCompile.cache
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.g.resources
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.Credentials.resources
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.CRM.resources
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.HR.resources
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.Inventory.resources
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.Notification.resources
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.Properties.Resources.resources
+D:\windows 10 backup\VS2012\WpfApplication13\WpfApplication13\obj\Debug\WpfApplication13.csproj.GenerateResource.Cache

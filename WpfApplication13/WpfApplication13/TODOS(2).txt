@@ -1,0 +1,8 @@
+﻿TODOS (UX)
+Dashboard: it should show updated information
+Suggestion: it should suggest in textboxes
+
+
+TODOS(Technical):
+Serial: it should update datas from serial device
+ORM: intgrate ORM with the DBase and app

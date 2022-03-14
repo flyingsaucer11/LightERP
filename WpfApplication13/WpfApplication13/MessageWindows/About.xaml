@@ -1,0 +1,10 @@
+﻿<Window x:Class="WpfApplication13.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" Height="327.472" Width="330.77" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,2,12">
+        <Label Content="About Light ERP" HorizontalAlignment="Left" Margin="28,10,0,0" VerticalAlignment="Top" Height="34" Width="162" FontSize="18" FontFamily="Open Sans" Foreground="#FF1D1F2B"/>
+        <TextBlock HorizontalAlignment="Left" Margin="28,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.157,-2.294" Height="193" Width="243" FontStyle="Italic" Foreground="#FF2250EA" FontSize="14"><Run Text=" Light ERP is a free and open source"/><LineBreak/><Run Text=" enterprise resource planning software "/><LineBreak/><Run Text=" specifically designed for small business"/><LineBreak/><Run Text=" to use. "/><LineBreak/><Run Text=" Give us your feedback at:"/><LineBreak/><Run Text=" abdurraafee@gmail.com"/><LineBreak/><Run Text=" "/><LineBreak/><Run Text=" Copyright:"/><LineBreak/><Run Text=" This software is distributed under GPL"/><LineBreak/><Run Text=" license. Learn more at www.gpl.org"/></TextBlock>
+
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfApplication13.ForgottenIDPASS"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ForgottenIDPASS" Height="300" Width="300" FontSize="16">
+    <Grid>
+        <Label Content="Submit your e-mail ID here&#xD;&#xA;and wait for the response from &#xD;&#xA;admin..." HorizontalAlignment="Left" Margin="31,10,0,0" VerticalAlignment="Top" Height="77" Width="238"/>
+        <Label Content="E-mail" HorizontalAlignment="Left" Margin="10,118,0,0" VerticalAlignment="Top" Width="66"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="81,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="188"/>
+        <Button Content="Submit" HorizontalAlignment="Left" Margin="122,165,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

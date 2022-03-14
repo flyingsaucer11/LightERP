@@ -1,0 +1,19 @@
+27-Aug-17 9:48:09 PM System.NullReferenceException: Object reference not set to an instance of an object.
+27-Aug-17 9:48:15 PM System.NullReferenceException: Object reference not set to an instance of an object.
+27-Aug-17 9:48:21 PM System.NullReferenceException: Object reference not set to an instance of an object.
+27-Aug-17 9:49:01 PM System.FormatException: Input string was not in a correct format.
+27-Aug-17 9:49:09 PM System.FormatException: Input string was not in a correct format.
+27-Aug-17 9:49:15 PM System.FormatException: Input string was not in a correct format.
+27-Aug-17 9:54:59 PM System.ArgumentException: No mapping exists from object type System.Security.SecureString to a known managed provider native type.
+27-Aug-17 10:27:44 PM System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK__Credenti__7ED91AEF14DF9723'. Cannot insert duplicate key in object 'dbo.Credentials'. The duplicate key value is ().
+27-Aug-17 10:27:53 PM System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+08-Oct-17 4:55:32 PM System.FormatException: Input string was not in a correct format.
+10/1/2019 3:04:31 PM System.Data.SqlClient.SqlException (0x80131904): An attempt to attach an auto-named database for file C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\LightERP_DBase.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+10/19/2020 4:57:30 PM System.Data.SqlClient.SqlException (0x80131904): An attempt to attach an auto-named database for file C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\LightERP_DBase.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+10/14/2021 9:52:52 PM System.Data.SqlClient.SqlException (0x80131904): An attempt to attach an auto-named database for file C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\LightERP_DBase.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+10/14/2021 9:53:09 PM System.InvalidOperationException: ExecuteReader: Connection property has not been initialized.
+10/14/2021 9:53:11 PM System.NullReferenceException: Object reference not set to an instance of an object.
+10/14/2021 9:53:16 PM System.Data.SqlClient.SqlException (0x80131904): An attempt to attach an auto-named database for file C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\LightERP_DBase.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+10/14/2021 9:58:45 PM System.Data.SqlClient.SqlException (0x80131904): An attempt to attach an auto-named database for file C:\Users\Abdur Raafee\documents\visual studio 2012\Projects\WpfApplication13\WpfApplication13\LightERP_DBase.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+10/14/2021 9:58:50 PM System.InvalidOperationException: ExecuteReader: Connection property has not been initialized.
+10/14/2021 9:58:51 PM System.NullReferenceException: Object reference not set to an instance of an object.
